@@ -48,7 +48,9 @@ function establecerClima() {
     parrafo.textContent =
       "No está lloviendo, pero el cielo está gris y nublado; podría llover en cualquier momento, así que lleve un saco solo por si acaso.";
   } else {
+
     parrafo.textContent = "";
   }
 }
+
 
